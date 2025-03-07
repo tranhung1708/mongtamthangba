@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mongtamthangba/static/css/main.d1f68042.css",
+    "main.js": "/mongtamthangba/static/js/main.6117e354.js",
+    "static/js/453.9444bf89.chunk.js": "/mongtamthangba/static/js/453.9444bf89.chunk.js",
+    "index.html": "/mongtamthangba/index.html",
+    "main.d1f68042.css.map": "/mongtamthangba/static/css/main.d1f68042.css.map",
+    "main.6117e354.js.map": "/mongtamthangba/static/js/main.6117e354.js.map",
+    "453.9444bf89.chunk.js.map": "/mongtamthangba/static/js/453.9444bf89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f68042.css",
+    "static/js/main.6117e354.js"
+  ]
+}
