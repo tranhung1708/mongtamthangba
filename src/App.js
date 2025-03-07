@@ -211,7 +211,7 @@ function App() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1, delay: 0.5 }}
       >
-        <img src="/mexiu.jpg" alt="Mexiu" />
+        <img src="https://github.com/tranhung1708/mongtamthangba/blob/master/public/mexiu.jpg" alt="Mexiu" />
       </PuppyContainer>
 
       <MessageCard marginBottom={true} />
